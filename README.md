@@ -1,1 +1,1 @@
-# Building an email newsletter in Axum
+# Building an email newsletter with actix-web
